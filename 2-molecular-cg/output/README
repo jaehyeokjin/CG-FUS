@@ -1,0 +1,9 @@
+Full length CG simulation trajectories in different formats are available in Zenodo trajectory
+* fus_120_run.dcd: Output from the CG simulation (in Zenodo)
+* In the current folder, other auxiliary output files are uploaded including
+	- fus_120_run.rst
+	- fus_120_run.log: log file
+	- fus_120_run.pdb: PDB File of the final snapshot
+* final.lammpstrj: LAMMPSTRJ format converted from fus_120_run.dcd using gromacs setting
+	- Refer to ./map/*.gro files
+
